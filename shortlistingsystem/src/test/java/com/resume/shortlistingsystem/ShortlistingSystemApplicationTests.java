@@ -1,4 +1,4 @@
-package com.resume.example.shortlistingsystem;
+package com.resume.shortlistingsystem;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
