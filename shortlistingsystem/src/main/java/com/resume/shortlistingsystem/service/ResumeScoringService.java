@@ -15,7 +15,7 @@ import java.util.List;
 public class ResumeScoringService {
 
     // Sample JD skills – replace or load from DB later
-    private final List<String> requiredSkills = Arrays.asList("car", "bike", "SQLuye", "Dockercar", "REST");
+    private final List<String> requiredSkills = Arrays.asList("MATH", "SCIENCE", "ARTS  ", "Dockercar", "REST");
 
     public String parseAndScore(MultipartFile file) {
         try {
